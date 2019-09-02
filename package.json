@@ -1,0 +1,11 @@
+{
+    "name": "com.bm.reminder",
+    "version": "0.0.1",
+    "description": "This is reminder application",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "bm",
+    "license": "ISC"
+}
